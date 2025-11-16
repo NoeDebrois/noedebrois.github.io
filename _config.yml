@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: Noe's website test
+title: Noe website test
 #
 author:
    name: NoeDebrois
@@ -9,8 +9,7 @@ author:
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-description: > 
-  Test of the description...
+description: Test description 
 #   Write an awesome description for your new site here. You can edit this line
 #   in _config.yml. It will appear in your document head meta (for Google search
 #   results) and in your feed.xml site description.
